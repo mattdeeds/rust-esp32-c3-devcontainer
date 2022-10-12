@@ -15,3 +15,6 @@ A template for creating a ready to use rust development environment for the ESP3
 - When the container is done building you should see the configuration prompt for your new esp-idf project 
 
 Now you'll have a fully setup dev environment for programming your ESP32-C3 board in rust 
+
+## To-Do
+- Add USD device mounting so you can flash ESP32-C3 board from within the container environment 
